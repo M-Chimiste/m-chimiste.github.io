@@ -4,7 +4,7 @@ title:  "Welcome to My Blog"
 date:   2023-04-14 00:01:00 -0400
 categories: jekyll update
 ---
-# Introductions are in Order
+## Introductions are in Order
 
 Welcome to my new blog, where I'll be exploring the exciting world of AI and computational linguistics. My name is Christian, and I'm currently a data scientist at a large pharmaceutical company with over 5 years of experience in this field. I hold a BS in Biochemistry, an MS in Information Technology focusing on Data Analytics, and an MBA in International Business. A lot of my work over the past several years has been around leveraging the current state of the art in computational linguistics and helping apply it to different business problems.
 
