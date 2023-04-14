@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my Technology and AI blog which focuses on technical and non-technical content.  I'm primarily going to be talking about Computational Linguistics here, but I'll also feature other content that I find interesting.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  https://github.com/M-Chimiste
+github_username:  M-Chimiste
 
 # Build settings
 theme: minima
